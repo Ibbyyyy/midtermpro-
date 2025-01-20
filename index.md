@@ -3,6 +3,10 @@ title: Project
 layout: home
 ---
 
+# DIY Tachometer at home
+
+
+
 This is a school project I have completed with a partner, this project is a homemade tachometer and you could use a tachometer to measure rpms of any type of rotating object.
 
 
@@ -19,3 +23,5 @@ More specifically, we intended to make this tachometer to measure the rpms of an
 - Jumpers( small wires)
 
   You could edit and tweak things to make it more complicated and sophisticated if you'd like
+
+# Process
